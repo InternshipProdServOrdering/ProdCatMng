@@ -1,0 +1,782 @@
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Аня\\Desktop\\Generated\\api\\openapi.yaml","syscall":"open"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Аня\\Desktop\\Generated\\api\\openapi.yaml","syscall":"open"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Аня\\Desktop\\Generated\\api\\openapi.yaml","syscall":"open"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"code":"ENOENT","errno":-4058,"level":"error","path":"C:\\Users\\Аня\\Desktop\\Generated\\api\\openapi.yaml","syscall":"open"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"failed to start Express Server"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: connect is not defined","stack":"ReferenceError: connect is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:18:9)\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:22)\n    at Object.<anonymous> (C:\\Users\\Аня\\Desktop\\Generated\\index.js:117:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49"}
+{"level":"error","message":"Unhandled error: this.close is not a function","stack":"TypeError: this.close is not a function\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:113:16)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: connect is not defined","stack":"ReferenceError: connect is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:18:9)\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:22)\n    at Object.<anonymous> (C:\\Users\\Аня\\Desktop\\Generated\\index.js:117:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49"}
+{"level":"error","message":"Unhandled error: this.close is not a function","stack":"TypeError: this.close is not a function\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:113:16)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: connect is not defined","stack":"ReferenceError: connect is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:18:9)\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:22)\n    at Object.<anonymous> (C:\\Users\\Аня\\Desktop\\Generated\\index.js:117:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: connect is not defined","stack":"ReferenceError: connect is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:18:9)\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:22)\n    at Object.<anonymous> (C:\\Users\\Аня\\Desktop\\Generated\\index.js:117:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: connect is not defined","stack":"ReferenceError: connect is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:18:9)\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:22)\n    at Object.<anonymous> (C:\\Users\\Аня\\Desktop\\Generated\\index.js:117:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)\n    at Module.load (node:internal/modules/cjs/loader:1208:32)\n    at Module._load (node:internal/modules/cjs/loader:1024:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)\n    at node:internal/main/run_main_module:28:49"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: connect is not defined","stack":"ReferenceError: connect is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:19:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:16)"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: Invalid connection string","name":"MongoParseError","stack":"MongoParseError: Invalid connection string\n    at parseConnectionString (C:\\Users\\Аня\\Desktop\\Generated\\node_modules\\mongodb\\lib\\core\\uri_parser.js:585:21)\n    at connect (C:\\Users\\Аня\\Desktop\\Generated\\node_modules\\mongodb\\lib\\operations\\connect.js:283:3)\n    at C:\\Users\\Аня\\Desktop\\Generated\\node_modules\\mongodb\\lib\\mongo_client.js:284:5\n    at maybePromise (C:\\Users\\Аня\\Desktop\\Generated\\node_modules\\mongodb\\lib\\utils.js:692:3)\n    at MongoClient.connect (C:\\Users\\Аня\\Desktop\\Generated\\node_modules\\mongodb\\lib\\mongo_client.js:280:10)\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:17:22)\n    at launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:22)\n    at Object.<anonymous> (C:\\Users\\Аня\\Desktop\\Generated\\index.js:117:1)\n    at Module._compile (node:internal/modules/cjs/loader:1358:14)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"error","message":"Error launching server: MongoDb is not defined","stack":"ReferenceError: MongoDb is not defined\n    at connectToDatabase (C:\\Users\\Аня\\Desktop\\Generated\\database_connect.js:19:32)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async launchServer (C:\\Users\\Аня\\Desktop\\Generated\\index.js:100:16)"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"error","message":"could not write message: KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (2 waiting locks): \"updating target topics\""}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: There is no leader for this topic-partition as we are in the middle of a leadership election"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Replication-factor is invalid"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":3},{\"X-Result-Count\":3},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::create: createCategory Category"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: Category"}
+{"level":"info","message":"populateMandatoryAttributes: type=Category"}
+{"level":"info","message":"... processExcludedInPost: Category Category_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryCreationNotification"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":4},{\"X-Result-Count\":4},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (2 waiting locks): \"updating target topics\""}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: There is no leader for this topic-partition as we are in the middle of a leadership election"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":2},{\"X-Result-Count\":2},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::index: listCategory Category"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":2},{\"X-Result-Count\":2},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/category?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"Service::remove: deleteCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res={1708}"}
+{"level":"info","message":"mongo::remove error=Not found \"Resource not found\""}
+{"level":"info","message":"handleRequest:: error={\n  \"error\": {\n    \"code\": \"60\",\n    \"reason\": \"Not found\",\n    \"message\": \"Resource not found\"\n  },\n  \"code\": 404\n}"}
+{"level":"info","message":"Service::remove: deleteCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryRemoveNotification"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"Service::create: createCategory Category"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: Category"}
+{"level":"info","message":"populateMandatoryAttributes: type=Category"}
+{"level":"info","message":"... processExcludedInPost: Category Category_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryCreationNotification"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::show: retrieveCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"show:: resourceType=Category query={\"criteria\":{\"id\":\"1708\"},\"options\":{\"projection\":{},\"limit\":250}}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::update: patchCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryAttributeValueChangeNotification"}
+{"level":"info","message":"Service::update: patchCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryAttributeValueChangeNotification"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::update: patchCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryAttributeValueChangeNotification"}
+{"level":"info","message":"Service::update: patchCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryAttributeValueChangeNotification"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::show: retrieveCategory Category"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"show:: resourceType=Category query={\"criteria\":{\"id\":\"1708\"},\"options\":{\"projection\":{},\"limit\":250}}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event CategoryNotification"}
+{"level":"info","message":"Service::serve: POST productCatalogCreateEvent"}
+{"level":"info","message":"Service::create: productCatalogCreateEvent NotificationListener"}
+{"level":"info","message":"... processMissingProperties: NotificationListener"}
+{"level":"info","message":"populateMandatoryAttributes: type=NotificationListener"}
+{"level":"info","message":"... processExcludedInPost: NotificationListener NotificationListener_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event NotificationListenerCreationNotification"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (2 waiting locks): \"updating target topics\""}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":1},{\"X-Result-Count\":1},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::serve: GET listImportJob"}
+{"level":"info","message":"Service::index: listImportJob ImportJob"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ImportJobNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/importJob?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"Service::serve: GET listExportJob"}
+{"level":"info","message":"Service::index: listExportJob ExportJob"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ExportJobNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/exportJob?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"error","message":"could not write message: KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"error","message":"could not write message: KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"error","message":"could not write message: KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"error","message":"could not write message: KafkaJSNumberOfRetriesExceeded: Connection error: "}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"info","message":"handleRequest:: error={\n  \"error\": {},\n  \"code\": 500\n}"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"info","message":"Service::serve: DELETE deleteProductCatalog"}
+{"level":"info","message":"Service::remove: deleteProductCatalog ProductCatalog"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogRemoveNotification"}
+{"level":"info","message":"Service::serve: DELETE deleteProductCatalog"}
+{"level":"info","message":"Service::remove: deleteProductCatalog ProductCatalog"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogRemoveNotification"}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"error","message":"could not write message: KafkaJSNonRetriableError: Timeout while acquiring lock (1 waiting locks): \"updating target topics\""}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9092\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: DELETE deleteProductCatalog"}
+{"level":"info","message":"Service::remove: deleteProductCatalog ProductCatalog"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogRemoveNotification"}
+{"level":"info","message":"Service::serve: DELETE deleteProductCatalog"}
+{"level":"info","message":"Service::remove: deleteProductCatalog ProductCatalog"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogRemoveNotification"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: DELETE deleteProductCatalog"}
+{"level":"info","message":"Service::remove: deleteProductCatalog ProductCatalog"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogRemoveNotification"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET retrieveProductCatalog"}
+{"level":"info","message":"Service::show: retrieveProductCatalog ProductCatalog"}
+{"level":"info","message":"getSingleKey:: #1 res=1708"}
+{"level":"info","message":"show:: resourceType=ProductCatalog query={\"criteria\":{\"id\":\"1708\"},\"options\":{\"projection\":{},\"limit\":250}}"}
+{"level":"info","message":"show:: resourceType=ProductCatalog: error=Not found \"Resource not found\""}
+{"level":"info","message":"handleRequest:: error={\n  \"error\": {\n    \"code\": \"60\",\n    \"reason\": \"Not found\",\n    \"message\": \"Resource not found\"\n  },\n  \"code\": 404\n}"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
+{"level":"info","message":"Service::serve: POST createProductCatalog"}
+{"level":"info","message":"Service::create: createProductCatalog ProductCatalog"}
+{"level":"info","message":"... replace startDateTime with native Date type"}
+{"level":"info","message":"... replace endDateTime with native Date type"}
+{"level":"info","message":"... replace lastUpdate with native Date type"}
+{"level":"info","message":"... processMissingProperties: ProductCatalog"}
+{"level":"info","message":"populateMandatoryAttributes: type=ProductCatalog"}
+{"level":"info","message":"... processExcludedInPost: ProductCatalog ProductCatalog_Create"}
+{"level":"info","message":"... processExcludedInPost: undefined not found"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogCreationNotification"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":1},{\"X-Result-Count\":1},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":1},{\"X-Result-Count\":1},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"kafka::brokers :: args=undefined"}
+{"level":"info","message":"kafka::brokers[\"localhost:9093\"]"}
+{"level":"info","message":"kafka::brokers :: args=[\"localhost:9093\"]"}
+{"level":"info","message":"done:: replaceAllRefs"}
+{"level":"info","message":"validator installed"}
+{"level":"info","message":"Listening on port 8620"}
+{"level":"info","message":"Express server running"}
+{"level":"info","message":"Service::serve: GET listProductCatalog"}
+{"level":"info","message":"Service::index: listProductCatalog ProductCatalog"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductCatalogNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"X-Total-Count\":1},{\"X-Result-Count\":1},{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productCatalog?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
+{"level":"info","message":"Service::serve: GET listProductOffering"}
+{"level":"info","message":"Service::index: listProductOffering ProductOffering"}
+{"level":"info","message":"mongo::findMany query={\n  \"criteria\": {},\n  \"options\": {\n    \"projection\": {},\n    \"limit\": 250\n  }\n}"}
+{"level":"info","message":"NotificationHandler:: publish ri-internal-event ProductOfferingNotification"}
+{"level":"info","message":"responseHeaderParams=[{\"Link\":\"<http://localhost:8620/tmf-api/productCatalogManagement/v5/productOffering?limit=250>; rel=\\\"self\\\"\"}]"}
+{"level":"info","message":"Message sent successfully to topic: ri-internal-event"}
